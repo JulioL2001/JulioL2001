@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BFEBF4&height=120&section=header"/>
 
-[![Presentation](https://readme-typing-svg.herokuapp.com?font=Hellovetica&pause=1000&color=94B6BDDF&width=500&height=70&lines=Be+Welcome!!!!!;My+name+is+Julio+Lucena;I+Study+Software+Development+in+Fatec;And+i'm+from%2C+S%C3%A3o+Jos%C3%A9+dos+Campos%2C+SP%2C+Brazil)](https://git.io/typing-svg)
+[![Presentation](https://readme-typing-svg.herokuapp.com?font=Hellovetica&pause=1000&color=94B6BDDF&width=500&height=70&lines=Be+Welcome!!!!!;My+name+is+Julio+Lucena;I+Study+Software+Development+at+Fatec;And+i'm+from+S%C3%A3o+Jos%C3%A9+dos+Campos%2C+SP%2C+Brazil)](https://git.io/typing-svg)
 <div> 
 
 # 💫 Sobre mim 💫 💫 About Me 💫 :
